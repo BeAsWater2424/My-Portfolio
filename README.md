@@ -8,7 +8,9 @@ This portfolio reflects who I am, where I’ve been, and where I’m heading.
 
 ## 🌐 Live Demo
 
-🚀 [Click here to view the live site](https://github.com/BeAsWater2424/My-Portfolio)  
+🚀 ## 🌐 Live Demo
+
+🚀 [Click here to view the live site](https://beaswater2424.github.io/My-Portfolio/) 
 
 
 ---
