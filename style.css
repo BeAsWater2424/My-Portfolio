@@ -150,6 +150,11 @@ a:hover {
 .contact-list a:hover {
   text-decoration: underline;
 }
+.badge {
+  font-size: 1.1rem;
+  margin-left: 0.3rem;
+}
+
 
 
 /* ===== Responsive Design ===== */
@@ -168,3 +173,22 @@ a:hover {
     padding: 2rem 1rem;
   }
 }
+/* ===== Footer ===== */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+  background: #1e1e2f;
+  color: #fff;
+  border-top: 2px solid #4caf50;
+  margin-top: 2rem;
+}
+
+/* ===== Link Hover Styling ===== */
+a:hover {
+  text-decoration: none;
+  color: #4caf50;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease-in-out;
+}
+
